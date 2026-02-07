@@ -1,0 +1,3 @@
+config:
+  my-second-app:org: jnash-dev-org
+  my-second-app:stack: staging
